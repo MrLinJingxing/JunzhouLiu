@@ -26,7 +26,8 @@ public class DailyTask {
             new VideoWatch(),
             new MangaSign(),
             new CoinAdd(),
-            new Silver2coin(),
+//         关闭瓜子兑换
+//             new Silver2coin(),
             new LiveCheckin(),
             new GiveGift(),
             new ChargeMe(),
